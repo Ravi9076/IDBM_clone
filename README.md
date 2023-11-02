@@ -1,2 +1,2 @@
 # IDBM_clone
-[Preview](https://ravi9076.github.io/IDBM_clone/)
+[Preview](file:///C:/Users/ravii/OneDrive/Desktop/IDBM%20CLONE/index.html)
